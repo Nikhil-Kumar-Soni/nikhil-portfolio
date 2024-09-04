@@ -231,8 +231,11 @@ main {
 .menu {
   display: none;  /* Initially hide the menu */
   flex-direction: column;
-  background-color: #000000;
+  background-color: transparent ;
   width: 100%;
+  position: absolute;
+  top:100%;
+  right:10px;
 }
 .menu.active {
   display: flex;  /* Show the menu when active */
