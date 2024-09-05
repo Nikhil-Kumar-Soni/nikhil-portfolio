@@ -92,7 +92,7 @@ main {
         background-size: cover;
         background-position: right;
         color: rgb(0, 0, 0);
-/*         width: 350px; */
+        width: 333px;
         height: 250px;
         position: relative;
         right: 0;
@@ -221,7 +221,7 @@ main {
   width: 300px;
 }
 .skill-container{
-  width: 350px;
+  width: 320px;
   height: auto;
   display: inline;
   text-align: left;
