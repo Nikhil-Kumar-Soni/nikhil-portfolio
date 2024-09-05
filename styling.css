@@ -92,7 +92,7 @@ main {
         background-size: cover;
         background-position: right;
         color: rgb(0, 0, 0);
-/*         width: 350px; */
+        width: 350px;
         height: 250px;
         position: relative;
         right: 0;
