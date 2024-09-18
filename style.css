@@ -579,6 +579,25 @@ flex-wrap: wrap;
     border-radius: 90px;
   }
 
+  .find-icon ul li a{
+    color:#ffbd39;
+  }
+  .fa-x-twitter:hover {
+    color: rgb(3, 6, 0);
+  }
+  .fa-facebook-f:hover  {
+    color: rgb(11, 11, 141);
+  }
+  .fa-linkedin-in:hover  {
+    color: rgb(29, 72, 137);
+  }
+  .fa-instagram:hover  {
+  color: rgb(148, 33, 33);
+  }
+  .fa-whatsapp:hover {
+  color: rgb(11, 141, 11);
+  }
+
 footer {
   background-color: #000000;
   color: #d1d0d0de;
